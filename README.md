@@ -1,1 +1,2 @@
 # Capstone Python Project
+Worked on end-to-end analysis of e-commerce datasets using Python to evaluate sales performance, delivery efficiency, and customer behavior. Performed data cleaning, manipulation, and exploratory data analysis to identify revenue drivers, top-performing categories and regions, delivery delays, payment trends, and customer ratings. Delivered actionable insights that supported improvements in logistics performance and product quality.
